@@ -51,5 +51,10 @@ namespace OddEvenGUI
                 this.textBox2.Text = "Odd";
             }
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
